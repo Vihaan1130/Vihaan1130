@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vihaan1130
+- 👋 Hi, I’m @thekhush_11
 - 👀 I’m interested in coding and Dancing
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Java Projects
